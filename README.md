@@ -18,42 +18,7 @@
   <br>
   <a href="https://github.com/revoxhere/duino-coin/blob/master/README.md">
     <img src="https://img.shields.io/badge/English-ff8502.svg?style=for-the-badge" /></a>
-  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_es_LATAM.md">
-    <img src="https://img.shields.io/badge/-Espa%C3%B1ol-ff7421?style=for-the-badge" /></a>
-  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_zh_TW.md">
-    <img src="https://img.shields.io/badge/繁體中文-ff6137.svg?style=for-the-badge" /></a>
-  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_zh_CN.md">
-    <img src="https://img.shields.io/badge/简体中文-ff6137.svg?style=for-the-badge" /></a>
-  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_pl_PL.md">
-    <img src="https://img.shields.io/badge/Polski-ff4b4c.svg?style=for-the-badge" /></a>
-  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_ru_RU.md">
-    <img src="https://img.shields.io/badge/русский-ff3062.svg?style=for-the-badge" /></a>
-  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_tr_TR.md">
-    <img src="https://img.shields.io/badge/Türk-ff0079.svg?style=for-the-badge" /></a>
-  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_th_TH.md">
-    <img src="https://img.shields.io/badge/-%E0%B9%84%E0%B8%97%E0%B8%A2-ff0092.svg?style=for-the-badge" /></a>
-  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_pt_BR.md">
-    <img src="https://img.shields.io/badge/-Portugu%C3%AAs-ff009a.svg?style=for-the-badge" /></a>
-  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_de_DE.md">
-    <img src="https://img.shields.io/badge/-Deutsch-ff00b2.svg?style=for-the-badge" /></a>
-  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_id_ID.md">
-    <img src="https://img.shields.io/badge/-bahasa Indonesia-ff00ca.svg?style=for-the-badge" /></a>
-  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_kr_KR.md">
-    <img src="https://img.shields.io/badge/한국어-ff0ae3.svg?style=for-the-badge" /></a>
-  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_sk_SK.md">
-    <img src="https://img.shields.io/badge/slovensky-ff0ae3.svg?style=for-the-badge" /></a>
-  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_it_IT.md">
-    <img src="https://img.shields.io/badge/italiano-ff0ae3.svg?style=for-the-badge" /></a>
-  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_cz_CZ.md">
-    <img src="https://img.shields.io/badge/%C4%8Desky-ff4b4c.svg?style=for-the-badge" /></a>
-  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_in_HI.md">
-    <img src="https://img.shields.io/badge/-Hindi-orange?style=for-the-badge" /></a>
-  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_ja_JP.md">
-    <img src="https://img.shields.io/badge/-日本語-orange?style=for-the-badge" /></a>
-  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_fi_FI.md">
-    <img src="https://img.shields.io/badge/finnish-121212.svg?style=for-the-badge" /></a>
 </h3>
-<a href="https://wallet.duinocoin.com">
   <img src="https://img.shields.io/badge/Online Wallet-a202ff.svg?style=for-the-badge&logo=Web" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.protothis.duinocoin">
   <img src="https://img.shields.io/badge/Android App-eb00cb.svg?style=for-the-badge&logo=Android" /></a>
